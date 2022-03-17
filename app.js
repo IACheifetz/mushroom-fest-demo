@@ -12,19 +12,19 @@ let mushroomCount = 3;
 
 const friendData = [
     {
-        name: 'Erich',
+        name: 'Arthur',
         satisfaction: 2,
     },
     {
-        name: 'Sarah',
+        name: 'Sadie',
         satisfaction: 3,
     },
     {
-        name: 'Missael',
+        name: 'Dutch',
         satisfaction: 1,
     },
     {
-        name: 'Soraya',
+        name: 'Micah',
         satisfaction: 2,
     },
 ];
